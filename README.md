@@ -66,10 +66,10 @@ Long-Tail & Mid-Difficulty Keywords:
 
 ---
 
-![Keyword Research 1](semantic_images\keywords_research1.png)
-![Keyword Research 2](semantic_images\keywords_research2.png)
-![Keyword Research 3](semantic_images\keywords_research3.png)
-![Keyword Research 4](semantic_images\keywords_research4.png)
-![Keyword Research 5](semantic_images\keywords_research5.png)
-![Keyword Research 6](semantic_images\keywords_research6.png)
-![Keyword Research 7](semantic_images\keywords_research7.png)
+![Keyword Research 1](keywords_research1.png)
+![Keyword Research 2](keywords_research2.png)
+![Keyword Research 3](keywords_research3.png)
+![Keyword Research 4](keywords_research4.png)
+![Keyword Research 5](keywords_research5.png)
+![Keyword Research 6](keywords_research6.png)
+![Keyword Research 7](keywords_research7.png)
